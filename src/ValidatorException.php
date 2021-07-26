@@ -1,6 +1,6 @@
 <?php declare (strict_types=1);
 
-namespace memCrab\Validator;
+namespace Memcrab\Validator;
 
 class ValidatorException extends \Exception
 {
