@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace memCrab\Validator;
+namespace Memcrab\Validator;
 
 use Respect\Validation\Exceptions\ValidationException;
 use Respect\Validation\Validator as v;
